@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/../../../learning/lagou-02/moudel/lagou-transfer-ioc-xml-anno" />
+    <file type="web" url="file://$PROJECT_DIR$/../lagou-transfer" />
     <file type="web" url="file://$PROJECT_DIR$" />
     <file type="web" url="file://$PROJECT_DIR$/../Spring-Ioc-anno" />
     <file type="web" url="file://$PROJECT_DIR$/../Spring-Ioc-xml" />
@@ -18,6 +19,7 @@
         <option value="$PROJECT_DIR$/../Spring-Ioc-xml/pom.xml" />
         <option value="$PROJECT_DIR$/../Spring-Ioc-xml-anno/pom.xml" />
         <option value="$PROJECT_DIR$/../Spring-Ioc-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/../lagou-transfer/pom.xml" />
       </list>
     </option>
   </component>

@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="My_IOC_AOP" />
         <module name="Spring-Ioc-anno" />
-        <module name="Spring-Ioc-xml-anno" />
         <module name="Spring-Ioc-xml" />
+        <module name="My_IOC_AOP" />
         <module name="My-Ioc-aop-anno" />
+        <module name="lagou-transfer" />
+        <module name="Spring-Ioc-xml-anno" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
