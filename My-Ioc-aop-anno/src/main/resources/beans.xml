@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<beans>
+
+    <component-scan base-package="com.lcg.edu"/>
+    <!--    &lt;!&ndash;数据库连接工具类&ndash;&gt;-->
+    <!--    <bean id="connectionUtils" class="com.lcg.edu.utils.ConnectionUtils">-->
+
+    <!--    </bean>-->
+
+    <!--    &lt;!&ndash;dao&ndash;&gt;-->
+    <!--    <bean id="bankAccountDao" class="com.lcg.edu.dao.impl.BankAccountDaoImpl">-->
+    <!--        <property name="ConnectionUtils" ref="connectionUtils"></property>-->
+    <!--    </bean>-->
+
+    <!--    &lt;!&ndash;service&ndash;&gt;-->
+    <!--    <bean id="transferService" class="com.lcg.edu.service.impl.TransferServiceImpl">-->
+    <!--        <property name="BankAccountDao" ref="bankAccountDao"></property>-->
+    <!--    </bean>-->
+
+    <!--    &lt;!&ndash;事务管理器&ndash;&gt;-->
+    <!--    <bean id="transactionManager" class="com.lcg.edu.utils.TransactionManager">-->
+    <!--        <property name="ConnectionUtils" ref="connectionUtils"></property>-->
+    <!--    </bean>-->
+
+    <!--    &lt;!&ndash;代理对象工厂&ndash;&gt;-->
+    <!--    <bean id="proxyFactory" class="com.lcg.edu.factory.ProxyFactory">-->
+    <!--        <property name="TransactionManager" ref="transactionManager"></property>-->
+    <!--    </bean>-->
+
+
+</beans>
